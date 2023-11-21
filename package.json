@@ -1,0 +1,16 @@
+{
+  "name": "backpack",
+  "version": "0.0.1",
+  "description": "Knapsack problem optimal solution with 1 weight step",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "type": "module",
+  "author": "Max Rostov",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
